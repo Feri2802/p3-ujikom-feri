@@ -1,7 +1,7 @@
 
 # P3 - Ujikom 2023
 
-Projects Uji Kompetensi SMK RPL 2023. Paket 3 - Aplikasi Pengelolaan Laundry
+Projek UKK p3 - Aplikasi Pengelolaan Laundry
 ## Installation
 
 Pindahkan folder projects yang di download pada lokasi yang diinginkan. Kemudian jalankan web server `(XAMPP/Laragon)`.
